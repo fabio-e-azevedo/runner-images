@@ -86,7 +86,8 @@
         { "name": "SqlServer" },
         { "name": "VSSetup" },
         { "name": "Microsoft.Graph" },
-        {"name": "AWSPowershell"}
+        { "name": "AWSPowershell" },
+        { "name": "PSParseHTML" }
     ],
     "azureModules": [
         {
